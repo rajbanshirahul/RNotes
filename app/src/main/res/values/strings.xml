@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">RNotes</string>
+
+    <string name="action_new_note">Add new note</string>
+    <string name="action_backup_notes">Backup notes</string>
+    <string name="action_restore_notes">Restore notes</string>
+    <string name="action_delete_all_notes">Delete all notes</string>
+    <string name="action_create_sample_notes">Create sample notes</string>
+    <string name="action_title_activity_about">About</string>
+    <string name="permission_denied">Permission Denied!</string>
+    <string name="storage_not_readable">Storage not readable.</string>
+    <string name="external_media_unavailable">External Media Unavailable!</string>
+    <string name="notes_not_found_in_the_database">No any notes found in the database.</string>
+    <string name="notes_backup_successful">Backup successful</string>
+    <string name="notes_backup_error">Error occurred!\nBackup unsuccessful</string>
+    <string name="dialog_backup_created">Backup created in</string>
+    <string name="overwrite_existing_backup_file">Overwrite existing backup file? \n(Cannot be undone)</string>
+    <string name="backup_file_not_found">Backup file not found!</string>
+    <string name="invalid_backup_file">Invalid backup file!</string>
+    <string name="backup_notes">Backup notes?</string>
+    <string name="restore_notes">Restore notes?</string>
+    <string name="restore_notes_successful">All notes are restored successfully!</string>
+    <string name="restore_cancelled">Restore cancelled.</string>
+    <string name="backup_cancelled">Backup cancelled.</string>
+    <string name="delete_all_notes">Delete all notes?</string>
+    <string name="delete_selected_notes">Selected notes will be deleted!</string>
+    <string name="all_deleted">All notes deleted.</string>
+    <string name="delete_successful">Delete successful</string>
+    <string name="delete_note">Delete note?</string>
+    <string name="save_changes">Save changes?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_editor">EditorActivity</string>
+    <string name="noteHint">note</string>
+    <string name="noteTitleHint">Title</string>
+    <string name="edit_note">Edit note</string>
+    <string name="note_created">Note created</string>
+    <string name="note_updated">Note updated</string>
+    <string name="action_note_colour">Note colour</string>
+    <string name="action_delete">Delete note</string>
+    <string name="action_font_size">Note font size</string>
+    <string name="action_hide_note_body_in_list">Hide note body in list</string>
+    <string name="action_show_note_body_in_list">Show note body in list</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="img_thmb_description">Note</string>
+    <string name="list_item_text_view_title">Title</string>
+    <string name="list_item_text_view_note">This is the Sample text which is longer than the width of the screen.</string>
+    <string name="list_item_text_view_date">2018/07/08</string>
+
+    <string name="app_version"> </string>
+
+
+    <string name="sample_note1_title">Shopping List</string>
+    <string name="sample_note1_body">Bread, Eggs, Chocolate, Milk, Lemon, Coffee Powder.</string>
+    <string name="sample_note2_title">Veg. List</string>
+    <string name="sample_note2_body">Mushrooms, Broccoli, Cabbage, Tomato, Chayote, Onions, Garlic, Peppers.</string>
+    <string name="sample_note3_title">Doctor\'s Appointment</string>
+    <string name="sample_note3_body">on Friday, 28th July</string>
+    <string name="sample_note4_title">Web link</string>
+    <string name="sample_note4_body">goo.gl/tmBeXE</string>
+    <string name="sample_note5_title">Gift items list</string>
+    <string name="sample_note5_body">Beats Pro Headphone.</string>
+    <string name="sample_note6_title">Jack Ma quotes</string>
+    <string name="sample_note6_body">On not giving up:\n"Today is cruel. Tomorrow is crueler. And the day after tomorrow is beautiful."\n\nOn people:\n"Hire the person best suited to the job, not the most talented. This can be a very painful lesson. There’s no point putting in a Boeing jet engine when you need to run a tractor."\n\nOn ethics:\n"Never deceive others, in business or in life. In 1995, I was deceived by four companies — four companies that are now closed. A company cannot go far by deceit."\n\nOn the benefits of his technological ineptitude:\n"Intelligent people need a fool to lead them. When the team's all a bunch of scientists, it is best to have a peasant lead the way. His way of thinking is different. It's easier to win if you have people seeing things from different perspectives."\n\nOn past mistakes from "the dark days at Alibaba":\n"If you don't give up, you still have a chance. And, when you are small, you have to be very focused and rely on your brain, not your strength."\n\nOn teamwork:\n"If we are a good team and know what we want to do, one of us can defeat 10 of them."\n\nOn having a larger mission:\n"It doesn't matter if I failed. At least I passed the concept on to others. Even if I don't succeed, someone will succeed."\n\nOn perseverance:\n"We will make it because we are young and we will never, never give up."\n\nOn work:\n"If we go to work at 8 a.m. and go home at 5 p.m., this is not a high-tech company and Alibaba will never be successful. If we have that kind of 8-to-5 spirit, then we should just go and do something else."\n\nOn competition:\n"You should learn from your competitor but never copy. Copy, and you die."\n\nOn starting a company:\n"If you want to grow, find a good opportunity. Today, if you want to be a great company, think about what social problem you could solve."\n\nOn growth:\n"In carrying out e-commerce, the most important thing is to keep doing what you are doing right now with passion, to keep it up."\n\n"Always keep in mind these three principles: what you want to do, what you should do, and for how long you should do it."</string>
+
+    <string name="tv_developed_by">Developed by:</string>
+    <string name="developer_name">Rahul Rajbanshi</string>
+    <string name="copyright">© 2018 | Developer\nAll Rights Reserved.</string>
+
+
+</resources>

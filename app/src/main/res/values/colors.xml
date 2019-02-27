@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#FF5252</color>
+
+    <color name="colorPrimaryLight">#ef9a9a</color>
+    <color name="colorPureWhite">#ffffff</color>
+
+    <color name="transparent">#00FFFFFF</color>
+    <color name="drop_shadow_grey">#60555555</color>
+
+    <!-- Grey Color Shades -->
+    <color name="grey_25">#FDFDFD</color>
+    <color name="grey_50">#FAFAFA</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_400">#BDBDBD</color>
+    <color name="grey_500">#9E9E9E</color>
+    <color name="grey_600">#757575</color>
+    <color name="grey_700">#616161</color>
+    <color name="grey_800">#424242</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <!-- White Color Shades -->
+    <color name="black">#000000</color>
+    <color name="black_95">#F2000000</color>
+    <color name="black_90">#E6000000</color>
+    <color name="black_85">#D9000000</color>
+    <color name="black_80">#CC000000</color>
+    <color name="black_75">#B000000F</color>
+    <color name="black_70">#B3000000</color>
+    <color name="black_65">#A6000000</color>
+    <color name="black_60">#99000000</color>
+    <color name="black_55">#8C000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="black_45">#73000000</color>
+    <color name="black_40">#66000000</color>
+    <color name="black_35">#59000000</color>
+    <color name="black_30">#4D000000</color>
+    <color name="black_25">#40000000</color>
+    <color name="black_20">#33000000</color>
+    <color name="black_15">#26000000</color>
+
+    <color name="black_10">#1A000000</color>
+    <color name="black_05">#0E000000</color>
+
+    <array name="colors_palette_array">
+        <item>@color/md_white</item>
+        <item>@color/md_red_400</item>
+        <item>@color/md_pink_400</item>
+        <item>@color/md_purple_400</item>
+        <item>@color/md_deep_purple_400</item>
+        <item>@color/md_indigo_300</item>
+        <item>@color/md_blue_400</item>
+        <item>@color/md_teal_400</item>
+        <item>@color/md_green_400</item>
+        <item>@color/md_light_green_400</item>
+        <item>@color/md_lime_400</item>
+        <item>@color/md_yellow_400</item>
+        <item>@color/md_amber_400</item>
+        <item>@color/md_orange_400</item>
+        <item>@color/md_deep_orange_400</item>
+        <item>@color/md_grey_400</item>
+    </array>
+
+</resources>
